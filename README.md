@@ -1,3 +1,3 @@
 # READ ME
 
-This is a *sample* website - just trying some suff out.
+This is a *sample* website - just trying some stuff out.
