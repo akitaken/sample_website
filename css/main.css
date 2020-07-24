@@ -1,0 +1,26 @@
+.nav-menu {
+  text-align: right;
+
+
+}
+.nav-spacing {
+  margin: 0 0 0 10px;
+  color: blue;
+  text-decoration: none;
+}
+
+.link-image {
+  text-decoration: none;
+}
+
+.image-block {
+  display: block; margin: 0 auto;
+}
+
+.quote {
+  padding: 2px 20px; background: #eeeeee;
+}
+
+.section-block {
+  width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
